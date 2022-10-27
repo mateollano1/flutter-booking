@@ -1,4 +1,11 @@
-# ui_exa
+# Aplicación flutter
+Url diapositivas:
+https://docs.google.com/presentation/d/e/2PACX-1vQuKq0-8ydP2o-FxQhdZPcoHEfDR61XchTvhbFh_LW8TWhWSYZUwFxzs6awPLHXbg/pub?start=false&loop=false&delayms=3000
+<br>
+App a desarrollar:
+<br>
+![image](https://user-images.githubusercontent.com/28764065/198162647-d6b5f444-1a37-4e66-b91e-18e49eebead9.png)
+
 
 A new Flutter project.
 
